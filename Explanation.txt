@@ -1,0 +1,33 @@
+1. `<!DOCTYPE html>`: This declaration tells the browser that the document is written in HTML5, the latest version of HTML.
+
+2. `<html>`: This tag is the root element that wraps the entire HTML document.
+
+3. `<head>`: This section contains meta-information about the web page, such as the title, which appears in the browser tab.
+
+4. `<title>`: This tag sets the title of the web page that appears in the browser's title bar or tab.
+
+5. `<body>`: This is the main content area of the web page where visible content is placed.
+
+6. `<header>`: Typically used for introductory content at the top of the page, such as a website logo or main heading.
+
+7. `<h1>`: This is a heading tag, indicating the main heading of the page. It's the largest and most important heading.
+
+8. `<nav>`: This is often used for navigation menus, containing links to other parts of the website.
+
+9. `<ul>`: Stands for "unordered list," which is used to create a list of items.
+
+10. `<li>`: Stands for "list item," used within a `<ul>` or `<ol>` (ordered list) to define individual list items.
+
+11. `<a href="#">`: This is a hyperlink (`<a>`) with an empty `href`, which is commonly used as a placeholder for links.
+
+12. `<main>`: This section typically contains the main content of the web page, such as text, images, and other elements.
+
+13. `<h2>`: This is a subheading, indicating a subsection within the main content.
+
+14. `<p>`: This is a paragraph tag, used to structure and display text content.
+
+15. `<img src="example.jpg" alt="An example image">`: This is an image tag that displays an image. `src` specifies the image source, and `alt` provides alternative text for accessibility.
+
+16. `<footer>`: Typically used for content at the bottom of the page, such as copyright information.
+
+17. `&copy; 2023 My Website`: This is an HTML entity (`&copy;`) representing the copyright symbol, followed by the copyright year and website name.
